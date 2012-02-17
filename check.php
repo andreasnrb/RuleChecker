@@ -1,6 +1,7 @@
 <div class="wrap">
 <div id="icon-options-general" class="icon32"></div>
 <h2>Rule checker</h2>
+    <p>You can select what you want the plugin to test.</p>
 <form action="" method="post">
 <label>List functions:</label> <input id="functions" name="functions" value="yes" type="checkbox"><br>
 <label>List includes/requirements:</label> <input id="increq" name="increq" value="yes" type="checkbox"><br>
